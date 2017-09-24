@@ -8,5 +8,4 @@
     tege
   </author>
   <plugin name="cordova-plugin-admob-free"  /> 
- <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
 </widget>
